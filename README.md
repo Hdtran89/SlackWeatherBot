@@ -7,7 +7,7 @@
 6. Join Channel #weatherbot
 7. Run slack command
 
-## Slack Commands
+### Slack Commands
 1. Slack Message by calling these command 
 	- today weather "zipcode"
 
@@ -16,7 +16,7 @@
 2. Node Run on it.
 3. Node app will use express, bodyparser, async/await, request
 4. Communicate with Slack Api via 
-	## Slack Message by calling these command 
-	-today weather "zipcode"
+	#### Slack Message by calling these command 
+	- today weather "zipcode"
 5. Communicate with Open Weather Api
 6. Return the message from Open Weather Api to Slack.
