@@ -1,3 +1,9 @@
+### No Server No Problem
+1. Join the Slack with this Invite Link.
+`https://join.slack.com/t/teamrocketsecret/shared_invite/enQtNTYyNDMxNzU4MzUyLTJkMTlhM2EyZmQ1MGVlY2FlMWY1OWVmMTU0YTc3ZmJmZjY2NzQ1NzZkMDBiYzc5OTYwNGY1M2I4ZDBjMmQ0NjM`
+2.  - Create a channel and invite weatherman, Or Join #weatherbot Channel
+3. Run Slack Command
+
 ### How to run the project
 1. Clone the project on server
 2. cd `SlackWeatherBot`
